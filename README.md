@@ -1,6 +1,8 @@
 # tradex_lite
 
-A new Flutter project.
+Flutter Developer Assignment: TradeX Lite - Market Watch & Visualization
+
+Flutter used : 3.32+
 
 ## Getting Started
 
